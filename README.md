@@ -12,8 +12,8 @@ Three requirements that Accenture is tasked to fulfill : Audit of big data pract
 Often you won’t need all these datasets to find what you’re looking for.
 So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 After Analysis we got data sets needed to complete analysis:
--Reaction Score(score is used to quantified the popularity)
--Content ID
--Reaction Types
--Content type
--Category
+- Reaction Score(score is used to quantified the popularity)
+- Content ID
+- Reaction Types
+- Content type
+- Category
