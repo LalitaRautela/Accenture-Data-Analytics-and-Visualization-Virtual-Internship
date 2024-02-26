@@ -1,7 +1,4 @@
-
-
 # Accenture-Data-Analytics-and-Visualization-Virtual-Internship
-
 
 # Task - 1
 ## Project Understanding:
